@@ -1,3 +1,7 @@
+---
+Layout: post
+Title: My First Post
+---
 # Week 10 Day 2 (**2022-05-10**) :
 
 Today I am working on learning the ins and outs of GitHub. I worked on getting through Microsoft Learning's GitHub beginner course. I've learned the basics of how to edit
