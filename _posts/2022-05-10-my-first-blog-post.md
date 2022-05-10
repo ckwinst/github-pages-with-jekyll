@@ -1,6 +1,7 @@
 ---
 Layout: post
-Title: My First Post
+title: "Welcome to my blog"
+date: 2022-05-10
 ---
 # Week 10 Day 2 (**2022-05-10**) :
 
